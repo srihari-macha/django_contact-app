@@ -1,0 +1,20 @@
+body{
+    text-align: center;
+}
+header{
+    background: #BFEFD7 url("http://www.clker.com/cliparts/N/d/2/R/F/r/phone-book-hi.png") no-repeat center;
+    background-size: 150px 100px;
+    margin: -5px 0px -20px 0px;
+    padding: 0px 0px 135px 0px;
+}
+div{
+    background: #ffffff;
+    padding: 15px 0px 108px 0px;
+}
+form{
+    margin: 0px 0px 15px 0px;
+}
+footer{
+    background: #BFEFD7;
+    padding: 50px 0px 50px 0px;
+}
